@@ -83,5 +83,7 @@ We also can use Docker Image for Installation of Loki and Promtail
     ```
 
 5. **Login Grafana and add Data Sources**:
+   ![image](https://github.com/user-attachments/assets/a93caf59-a806-4968-b188-d591e6f70e9d)
+
   - Access **Grafana** at `http://localhost:3000`
     - Default credentials: `admin` / `admin` (you'll be prompted to change this)
