@@ -11,7 +11,7 @@ sleep 5
 echo "${YELLOW}Create a user for Loki...${RESET}"
 sudo useradd --no-create-home --shell /bin/false loki
 
-# Create necessary directories
+# Create necessary directories.
 echo "${YELLOW}Create necessary directories...${RESET}"
 sudo mkdir /etc/loki
 sudo mkdir /var/lib/loki
