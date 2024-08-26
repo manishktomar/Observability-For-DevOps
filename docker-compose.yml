@@ -1,4 +1,4 @@
-version: '2.2'  # Change this to a version your Docker Compose supports
+version: '2.2'  # Change this to a version your Docker Compose supports.
 
 services:
   prometheus:
