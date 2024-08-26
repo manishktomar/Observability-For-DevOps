@@ -18,7 +18,7 @@ In modern DevOps, observability is key to ensuring the health and performance of
 - **Docker & Docker Compose**: Containerization and orchestration.
 - **Prometheus**: Metrics collection and monitoring.
 - **Loki**: Lightweight log management.
-- **Promtail**: Promtail (Log Agent for Loki).
+- **Promtail**: Promtail (Log Agent for Loki)
 - **Grafana**: Data visualization and dashboard creation.
 - **cAdvisor**: Container resource monitoring.
 - **Node Exporter**: Hardware and OS metrics exporter.
