@@ -7,7 +7,7 @@ clear
 echo "${CYAN}${BOLD}${BLINK}Promtail (Log Agent for Loki) Installation Script for Ubuntu...${RESET}"
 sleep 5
 
-# Create a user for Promtail
+# Create a user for Promtail.
 echo "${YELLOW}Create a user for Promtail...${RESET}"
 sudo useradd --no-create-home --shell /bin/false promtail
 sudo mkdir /etc/promtail
