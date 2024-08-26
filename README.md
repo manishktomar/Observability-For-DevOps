@@ -64,14 +64,11 @@ We also can use Docker Image for Installation of Loki and Promtail
     sh promtail.sh
     ```
 
+    Once Installation done copy configure file and restart the services.
     ```bash
-    Once Installation done
     cp loki-config.yaml /etc/loki/local-config.yaml
     cp promtail-config.yaml  /etc/loki/config.yaml
-    ```
 
-    ```bash
-    Restart the services
     systemctl restart loki.service
     systemctl restart promtail.service
     ```
