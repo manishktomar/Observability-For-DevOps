@@ -21,15 +21,6 @@ In modern DevOps, observability is key to ensuring the health and performance of
 - **cAdvisor**: Container resource monitoring.
 - **Node Exporter**: Hardware and OS metrics exporter.
 
-## Usage
-- Access **Loki** at `http://localhost:3100/metrics`
-- Access **Promtail** at `http://localhost:9080/targets`
-- Access **Grafana** at `http://localhost:3000`
-  - Default credentials: `admin` / `admin` (you'll be prompted to change this)
-- Access **Prometheus** at `http://localhost:9090`
-- Access **cAdvisor** at `http://localhost:8080`
-- Access **Node Exporter** metrics will be available at `http://localhost:9100/metrics`
-
 ## Installation on Ubuntu
 
 1. **Clone the repository**:
@@ -84,3 +75,12 @@ We also can use Docker Image for Installation of Loki and Promtail
 
   - Access **Grafana** at `http://localhost:3000`
     - Default credentials: `admin` / `admin` (you'll be prompted to change this)
+
+## Usage
+- Access **Loki** at `http://localhost:3100/metrics`
+- Access **Promtail** at `http://localhost:9080/targets`
+- Access **Grafana** at `http://localhost:3000`
+  - Default credentials: `admin` / `admin` (you'll be prompted to change this)
+- Access **Prometheus** at `http://localhost:9090`
+- Access **cAdvisor** at `http://localhost:8080`
+- Access **Node Exporter** metrics will be available at `http://localhost:9100/metrics`
