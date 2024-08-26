@@ -66,7 +66,7 @@ We also can use Docker Image for Installation of Loki and Promtail
     systemctl restart promtail.service
     ```
 
-4. **Prometheus + Grafana + cAdvisor + Node Exporter Installation through Docker**:
+4. **Prometheus + Grafana + cAdvisor + Node Exporter Installation with Docker**:
     ```bash
     cd Observability-For-DevOps
     docker compose up -d
