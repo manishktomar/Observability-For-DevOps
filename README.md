@@ -4,7 +4,8 @@ This repository provides a comprehensive observability stack tailored for DevOps
 
 ## Overview
 In modern DevOps, observability is key to ensuring the health and performance of your applications and infrastructure. This repository sets up an observability stack that includes metrics collection, container monitoring, and real-time visualization.
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/cd5fc117-611c-4aee-9b6c-ce041835cad9)
 
 ## Features
 - Real-time monitoring of container metrics with Prometheus.
