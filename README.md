@@ -1,6 +1,6 @@
 # Observability-For-DevOps
 
-This repository provides a comprehensive observability stack tailored for DevOps engineers. It integrates key tools like Prometheus, Promtail, Loki, Grafana, cAdvisor, and Node Exporter to monitor, visualize, and manage your infrastructure and applications. Additionally, it includes a custom Notes App to demonstrate the observability stack in action.
+This repository provides a comprehensive observability stack tailored for DevOps engineers. It integrates key tools like Prometheus, Promtail, Loki, Grafana, cAdvisor, and Node Exporter to monitor, visualize, and manage your infrastructure and applications. Additionally, it includes a custom Notes App to demonstrate the observability stack in action..
 
 ## Overview
 In modern DevOps, observability is key to ensuring the health and performance of your applications and infrastructure. This repository sets up an observability stack that includes metrics collection, container monitoring, and real-time visualization.
